@@ -1,7 +1,112 @@
 {
  "version": 1,
- "updated": 1792342645645,
+ "updated": 1792343218268,
  "topics": [
+  {
+   "key": "bulk_c7_sst_ch10_constitution_v2_1792343072699_10",
+   "title": "C7_SST_Ch10_Constitution_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch10_constitution_v2_1792343072699_10.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11",
+   "title": "C7_SST_Ch11_Barter_to_Money_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12",
+   "title": "C7_SST_Ch12_Understanding_Markets_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1",
+   "title": "C7_SST_Ch1_Geographical_Diversity_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch2_weather_v2_1792343072529_0",
+   "title": "C7_SST_Ch2_Weather_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch2_weather_v2_1792343072529_0.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch3_climates_v2_1792343072583_2",
+   "title": "C7_SST_Ch3_Climates_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch3_climates_v2_1792343072583_2.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch4_cities_states_v2_1792343072599_3",
+   "title": "C7_SST_Ch4_Cities_States_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch4_cities_states_v2_1792343072599_3.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4",
+   "title": "C7_SST_Ch5_Rise_of_Empires_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5",
+   "title": "C7_SST_Ch6_Age_of_Reorganisation_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6",
+   "title": "C7_SST_Ch7_Gupta_Era_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch7_gupta_era_v2_1792343072661_7",
+   "title": "C7_SST_Ch7_Gupta_Era_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072661_7.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8",
+   "title": "C7_SST_Ch8_Sacred_Land_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8.json"
+  },
+  {
+   "key": "bulk_c7_sst_ch9_governments_v2_1792343072688_9",
+   "title": "C7_SST_Ch9_Governments_v2",
+   "cls": "Class 7",
+   "subject": "Social Science",
+   "file": "topics/bulk_c7_sst_ch9_governments_v2_1792343072688_9.json"
+  },
+  {
+   "key": "c7_sst_ch1_geographical_diversity_1792343118053",
+   "title": "c7_sst_ch1_geographical_diversity_1792343118053",
+   "cls": "",
+   "subject": "",
+   "file": "topics/c7_sst_ch1_geographical_diversity_1792343118053.json"
+  },
+  {
+   "key": "c7_sst_ch1_geographical_diversity_1792343124027",
+   "title": "c7_sst_ch1_geographical_diversity_1792343124027",
+   "cls": "",
+   "subject": "",
+   "file": "topics/c7_sst_ch1_geographical_diversity_1792343124027.json"
+  },
   {
    "key": "rkt_lit_topic1_literary_periods_1792286332201",
    "title": "rkt_lit_topic1_literary_periods_1792286332201",
