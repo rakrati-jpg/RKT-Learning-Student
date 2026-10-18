@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1792344016506,
+ "updated": 1792345658583,
  "topics": [
   {
    "key": "bulk_c7_sst_ch10_constitution_v2_1792343072699_10",
@@ -73,13 +73,6 @@
    "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6.json"
   },
   {
-   "key": "bulk_c7_sst_ch7_gupta_era_v2_1792343072661_7",
-   "title": "C7_SST_Ch7_Gupta_Era_v2",
-   "cls": "Class 7",
-   "subject": "Social Science",
-   "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072661_7.json"
-  },
-  {
    "key": "bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8",
    "title": "C7_SST_Ch8_Sacred_Land_v2",
    "cls": "Class 7",
@@ -92,13 +85,6 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch9_governments_v2_1792343072688_9.json"
-  },
-  {
-   "key": "c7_sst_ch1_geographical_diversity_1792343118053",
-   "title": "c7_sst_ch1_geographical_diversity_1792343118053",
-   "cls": "",
-   "subject": "",
-   "file": "topics/c7_sst_ch1_geographical_diversity_1792343118053.json"
   },
   {
    "key": "c7_sst_ch1_geographical_diversity_1792343124027",
