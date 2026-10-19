@@ -1,102 +1,102 @@
 {
  "version": 1,
- "updated": 1792373536900,
+ "updated": 1792373924147,
  "topics": [
   {
    "key": "bulk_c7_sst_ch10_constitution_v2_1792343072699_10",
-   "title": "C7_SST_Ch10_Constitution_v2",
+   "title": "C7 SST CH10 CONSTITUTION",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch10_constitution_v2_1792343072699_10.json",
-   "ts": 1792373543647
+   "ts": 1792373932465
   },
   {
    "key": "bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11",
-   "title": "C7_SST_Ch11_Barter_to_Money_v2",
+   "title": "C7 SST CH11 BARTER TO MONEY",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11.json",
-   "ts": 1792373551011
+   "ts": 1792373938876
   },
   {
    "key": "bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12",
-   "title": "C7_SST_Ch12_Understanding_Markets_v2",
+   "title": "C7 SST CH12 UNDERSTANDING MARKETS",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12.json",
-   "ts": 1792373556940
+   "ts": 1792373944212
   },
   {
    "key": "bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1",
-   "title": "C7_SST_Ch1_Geographical_Diversity_v2",
+   "title": "C7 SST CH1 GEOGRAPHICAL DIVERSITY",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1.json",
-   "ts": 1792373563554
+   "ts": 1792373958128
   },
   {
    "key": "bulk_c7_sst_ch2_weather_v2_1792343072529_0",
-   "title": "C7_SST_Ch2_Weather_v2",
+   "title": "C7 SST CH2 WEATHER",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch2_weather_v2_1792343072529_0.json",
-   "ts": 1792373568953
+   "ts": 1792373968312
   },
   {
    "key": "bulk_c7_sst_ch3_climates_v2_1792343072583_2",
-   "title": "C7_SST_Ch3_Climates_v2",
+   "title": "C7 SST CH3 CLIMATES",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch3_climates_v2_1792343072583_2.json",
-   "ts": 1792373578215
+   "ts": 1792373981521
   },
   {
    "key": "bulk_c7_sst_ch4_cities_states_v2_1792343072599_3",
-   "title": "C7_SST_Ch4_Cities_States_v2",
+   "title": "C7 SST CH4 CITIES STATES",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch4_cities_states_v2_1792343072599_3.json",
-   "ts": 1792373584292
+   "ts": 1792373989591
   },
   {
    "key": "bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4",
-   "title": "C7_SST_Ch5_Rise_of_Empires_v2",
+   "title": "C7 SST CH5 RISE OF EMPIRES",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4.json",
-   "ts": 1792373591688
+   "ts": 1792374002870
   },
   {
    "key": "bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5",
-   "title": "C7_SST_Ch6_Age_of_Reorganisation_v2",
+   "title": "C7 SST CH6 AGE OF REORGANISATION",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5.json",
-   "ts": 1792373599283
+   "ts": 1792374012292
   },
   {
    "key": "bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6",
-   "title": "C7_SST_Ch7_Gupta_Era_v2",
+   "title": "C7 SST CH7 GUPTA ERA",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6.json",
-   "ts": 1792373607977
+   "ts": 1792374020963
   },
   {
    "key": "bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8",
-   "title": "C7_SST_Ch8_Sacred_Land_v2",
+   "title": "C7 SST CH8 SACRED LAND",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8.json",
-   "ts": 1792373615491
+   "ts": 1792374053643
   },
   {
    "key": "bulk_c7_sst_ch9_governments_v2_1792343072688_9",
-   "title": "C7_SST_Ch9_Governments_v2",
+   "title": "C7 SST CH9 GOVERNMENTS",
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch9_governments_v2_1792343072688_9.json",
-   "ts": 1792373621745
+   "ts": 1792374077429
   }
  ]
 }
