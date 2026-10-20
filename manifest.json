@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1792468735860,
+ "updated": 1792468999931,
  "topics": [
   {
    "key": "all_mcq_6_writers_1792376625216",
@@ -8,7 +8,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/all_mcq_6_writers_1792376625216.json",
-   "ts": 1792468740034
+   "ts": 1792469007078
   },
   {
    "key": "bulk_c7_sst_ch10_constitution_v2_1792343072699_10",
@@ -16,7 +16,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch10_constitution_v2_1792343072699_10.json",
-   "ts": 1792468744698
+   "ts": 1792469012736
   },
   {
    "key": "bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11",
@@ -24,7 +24,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch11_barter_to_money_v2_1792343072714_11.json",
-   "ts": 1792468749987
+   "ts": 1792469018585
   },
   {
    "key": "bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12",
@@ -32,7 +32,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch12_understanding_markets_v2_1792343072729_12.json",
-   "ts": 1792468754765
+   "ts": 1792469024436
   },
   {
    "key": "bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1",
@@ -40,7 +40,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch1_geographical_diversity_v2_1792343072565_1.json",
-   "ts": 1792468759188
+   "ts": 1792469029995
   },
   {
    "key": "bulk_c7_sst_ch2_weather_v2_1792343072529_0",
@@ -48,7 +48,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch2_weather_v2_1792343072529_0.json",
-   "ts": 1792468764069
+   "ts": 1792469035980
   },
   {
    "key": "bulk_c7_sst_ch3_climates_v2_1792343072583_2",
@@ -56,7 +56,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch3_climates_v2_1792343072583_2.json",
-   "ts": 1792468768391
+   "ts": 1792469041196
   },
   {
    "key": "bulk_c7_sst_ch4_cities_states_v2_1792343072599_3",
@@ -64,7 +64,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch4_cities_states_v2_1792343072599_3.json",
-   "ts": 1792468772468
+   "ts": 1792469046229
   },
   {
    "key": "bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4",
@@ -72,7 +72,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch5_rise_of_empires_v2_1792343072612_4.json",
-   "ts": 1792468777474
+   "ts": 1792469053214
   },
   {
    "key": "bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5",
@@ -80,7 +80,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch6_age_of_reorganisation_v2_1792343072631_5.json",
-   "ts": 1792468781691
+   "ts": 1792469057868
   },
   {
    "key": "bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6",
@@ -88,7 +88,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch7_gupta_era_v2_1792343072648_6.json",
-   "ts": 1792468787214
+   "ts": 1792469063795
   },
   {
    "key": "bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8",
@@ -96,7 +96,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch8_sacred_land_v2_1792343072674_8.json",
-   "ts": 1792468791588
+   "ts": 1792469069190
   },
   {
    "key": "bulk_c7_sst_ch9_governments_v2_1792343072688_9",
@@ -104,7 +104,7 @@
    "cls": "Class 7",
    "subject": "Social Science",
    "file": "topics/bulk_c7_sst_ch9_governments_v2_1792343072688_9.json",
-   "ts": 1792468795507
+   "ts": 1792469074087
   },
   {
    "key": "crown_gs_ancient_india_pagewise_part1_1792375115797",
@@ -112,7 +112,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_ancient_india_pagewise_part1_1792375115797.json",
-   "ts": 1792468799860
+   "ts": 1792469078872
   },
   {
    "key": "crown_gs_ancient_india_pagewise_part2_1792375149834",
@@ -120,7 +120,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_ancient_india_pagewise_part2_1792375149834.json",
-   "ts": 1792468804789
+   "ts": 1792469083358
   },
   {
    "key": "crown_gs_medieval_india_part1_1792375221135",
@@ -128,7 +128,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_medieval_india_part1_1792375221135.json",
-   "ts": 1792468809363
+   "ts": 1792469087991
   },
   {
    "key": "crown_gs_medieval_india_part2_1792375258436",
@@ -136,7 +136,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_medieval_india_part2_1792375258436.json",
-   "ts": 1792468813322
+   "ts": 1792469093285
   },
   {
    "key": "crown_gs_modern_india_pagewise_part2_1792375347610",
@@ -144,7 +144,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_modern_india_pagewise_part2_1792375347610.json",
-   "ts": 1792468817917
+   "ts": 1792469098440
   },
   {
    "key": "crown_gs_modern_india_part1_1792375307191",
@@ -152,7 +152,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/crown_gs_modern_india_part1_1792375307191.json",
-   "ts": 1792468821868
+   "ts": 1792469103577
   },
   {
    "key": "indian_geography_mcq_bank_1792377188642",
@@ -160,7 +160,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/indian_geography_mcq_bank_1792377188642.json",
-   "ts": 1792468825665
+   "ts": 1792469108088
   },
   {
    "key": "pgt_english_set1_mcqs_1792394089189",
@@ -168,7 +168,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set1_mcqs_1792394089189.json",
-   "ts": 1792468827867
+   "ts": 1792469109971
   },
   {
    "key": "pgt_english_set2_1792396010893",
@@ -176,7 +176,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set2_1792396010893.json",
-   "ts": 1792468829851
+   "ts": 1792469112158
   },
   {
    "key": "pgt_english_set3_1792396883743",
@@ -184,7 +184,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set3_1792396883743.json",
-   "ts": 1792468832646
+   "ts": 1792469115396
   },
   {
    "key": "pgt_english_set4_1792399044384",
@@ -192,7 +192,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set4_1792399044384.json",
-   "ts": 1792468834642
+   "ts": 1792469118450
   },
   {
    "key": "pgt_english_set5_mcqs_1792400452128",
@@ -200,15 +200,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set5_mcqs_1792400452128.json",
-   "ts": 1792468837245
-  },
-  {
-   "key": "pgt_english_set6_1792408859120",
-   "title": "PGT English Set6",
-   "cls": "",
-   "subject": "",
-   "file": "topics/pgt_english_set6_1792408859120.json",
-   "ts": 1792468839734
+   "ts": 1792469121512
   },
   {
    "key": "pgt_english_set7_1792468669230",
@@ -216,7 +208,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/pgt_english_set7_1792468669230.json",
-   "ts": 1792468841758
+   "ts": 1792469128950
   },
   {
    "key": "world_geography_all_mcq_1792377236810",
@@ -224,7 +216,7 @@
    "cls": "",
    "subject": "",
    "file": "topics/world_geography_all_mcq_1792377236810.json",
-   "ts": 1792468846276
+   "ts": 1792469132709
   }
  ]
 }
